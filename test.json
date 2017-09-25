@@ -1,0 +1,5395 @@
+{
+	"test": [
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002161"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203353.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002161"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GRANT DUFF"
+						},
+						{
+							"code": "b",
+							"data": "Shiela"
+						},
+						{
+							"code": "f",
+							"data": "1913-"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/115859233"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n83064573"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002183"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203353.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002183"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "SMITH"
+						},
+						{
+							"code": "b",
+							"data": "F.Joseph"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/43216873"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n83153176"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002501"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203359.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002501"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aretino"
+						},
+						{
+							"code": "b",
+							"data": "Pietro"
+						},
+						{
+							"code": "f",
+							"data": "1492-1556"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/66609417"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79089193"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002984"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203407.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002984"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Eppstein"
+						},
+						{
+							"code": "b",
+							"data": "Ury"
+						},
+						{
+							"code": "f",
+							"data": "1925-"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/26297752"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n94093446"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002987"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203407.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002987"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "NEIBAUER"
+						},
+						{
+							"code": "b",
+							"data": "Alan R."
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/37895"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n86013887"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001828"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203347.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001828"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "WEBER"
+						},
+						{
+							"code": "b",
+							"data": "Edith"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/72227794"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n50020913"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10003031"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203408.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10003031"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ROBERTSON"
+						},
+						{
+							"code": "b",
+							"data": "David"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/304990846"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n84155420"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10003037"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203408.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10003037"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "REUCHLIN"
+						},
+						{
+							"code": "b",
+							"data": "Maurice"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/108852345"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n50045211"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10000721"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519202853.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10000721"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20131126agrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "fre"
+						}
+					],
+					"tag": 101,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "FR"
+						}
+					],
+					"tag": 102,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "0"
+						}
+					],
+					"tag": 106,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ba"
+						}
+					],
+					"tag": 120,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "AACR2 2nd rev. ed."
+						},
+						{
+							"code": "b",
+							"data": "lcna"
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Stendhal"
+						},
+						{
+							"code": "f",
+							"data": "1783-1842"
+						}
+					],
+					"tag": 200,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20140529"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "L.C."
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/17823"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n78095494"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2014-05"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001987"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20061218103955.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001987"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519agrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "0"
+						}
+					],
+					"tag": 106,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ba"
+						}
+					],
+					"tag": 120,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "AACR2 2nd rev. ed."
+						},
+						{
+							"code": "b",
+							"data": "lcna"
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Stravinsky"
+						},
+						{
+							"code": "b",
+							"data": "Igor"
+						},
+						{
+							"code": "f",
+							"data": "1882-1971"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Composer"
+						}
+					],
+					"tag": 340,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20090220"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/17309155"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79070061"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2014-01"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001988"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203350.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001988"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "RAHBARI"
+						},
+						{
+							"code": "b",
+							"data": "Alexander"
+						},
+						{
+							"code": "f",
+							"data": "1948-"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/61737848"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/nr94014400"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001459"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203341.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "(ionio)ionioa10004559"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001459"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519agrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "eng"
+						}
+					],
+					"tag": 101,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "US"
+						}
+					],
+					"tag": 102,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "0"
+						}
+					],
+					"tag": 106,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ba"
+						}
+					],
+					"tag": 120,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "AACR2 2nd rev. ed."
+						},
+						{
+							"code": "b",
+							"data": "lcna"
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Gershwin"
+						},
+						{
+							"code": "b",
+							"data": "George"
+						},
+						{
+							"code": "f",
+							"data": "1898-1937"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20100303"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "L.C."
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/61554329"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79077265"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2014-04"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001856"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203348.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001856"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GYORY"
+						},
+						{
+							"code": "b",
+							"data": "Jean"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/15213547"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n91065357"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001677"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203345.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001677"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Hild"
+						},
+						{
+							"code": "b",
+							"data": "Friedrich"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/147485808"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/nb2005013710"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001676"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203345.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001676"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Koder"
+						},
+						{
+							"code": "b",
+							"data": "Johannes"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/25795558"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n80156039"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001670"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203344.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001670"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Etienne"
+						},
+						{
+							"code": "b",
+							"data": "Robert"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/111567113"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n84186414"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10003013"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203408.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10003013"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "KOCH"
+						},
+						{
+							"code": "b",
+							"data": "Heinrich Christoph"
+						},
+						{
+							"code": "f",
+							"data": "1749-1816"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/9985355"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n82165268"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002170"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203353.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002170"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "WESSON"
+						},
+						{
+							"code": "b",
+							"data": "Caren"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/51829278"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n83169601"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002516"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203359.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002516"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "KRAUSE"
+						},
+						{
+							"code": "b",
+							"data": "Keith"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/64069345"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n91076035"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002518"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203359.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002518"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Boniface"
+						},
+						{
+							"code": "b",
+							"data": "Priscilla"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/48131872"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n83010785"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002993"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203407.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002993"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519agrey010301  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ger"
+						}
+					],
+					"tag": 101,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "DE"
+						}
+					],
+					"tag": 102,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "0"
+						}
+					],
+					"tag": 106,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ba"
+						}
+					],
+					"tag": 120,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "AACR2 2nd rev. ed."
+						},
+						{
+							"code": "b",
+							"data": "lcna"
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Bach"
+						},
+						{
+							"code": "b",
+							"data": "Johann Sebastian"
+						},
+						{
+							"code": "f",
+							"data": "1685-1750"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Bach"
+						},
+						{
+							"code": "b",
+							"data": "J. S."
+						},
+						{
+							"code": "f",
+							"data": "1685-1750"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Bach"
+						},
+						{
+							"code": "b",
+							"data": "Gio. Seb."
+						},
+						{
+							"code": "f",
+							"data": "1685-1750"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Bach"
+						},
+						{
+							"code": "b",
+							"data": "G. S."
+						},
+						{
+							"code": "f",
+							"data": "1685-1750"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Μπαχ"
+						},
+						{
+							"code": "f",
+							"data": "1685-1750"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20090514"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Air on a G string, c1994"
+						},
+						{
+							"code": "b",
+							"data": "t.p. (J. S. Bach)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Composizioni, [18--]"
+						},
+						{
+							"code": "b",
+							"data": "t.p. (Gio. Seb. Bach)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Il clavicembalo bem temperato, 1946"
+						},
+						{
+							"code": "b",
+							"data": "t.p. (G. S. Bach)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Μπαχ [SR] 2001"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "L.C."
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/12304462"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79021425"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2009-09"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002994"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203407.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002994"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "HENDRICKS"
+						},
+						{
+							"code": "b",
+							"data": "Chris"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/76154136"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/nr00018297"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10003002"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203407.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "(ionio)ionioa10087125"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10003002"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "HITLER"
+						},
+						{
+							"code": "b",
+							"data": "Adolf"
+						},
+						{
+							"code": "f",
+							"data": "1889-1945"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/38190770"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79046200"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001467"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203341.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001467"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "KNOWLES"
+						},
+						{
+							"code": "b",
+							"data": "Christine"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/235333474"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n84094767"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10000440"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519202850.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "(ionio)ionioa10000438"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10000440"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20120307agrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "heb"
+						}
+					],
+					"tag": 101,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ES"
+						}
+					],
+					"tag": 102,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "0"
+						}
+					],
+					"tag": 106,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ba"
+						}
+					],
+					"tag": 120,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "AACR2 2nd rev. ed."
+						},
+						{
+							"code": "b",
+							"data": "lcna"
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Benjamin"
+						},
+						{
+							"code": "c",
+							"data": "of Tudela"
+						},
+						{
+							"code": "f",
+							"data": "active 12th century"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Βενιαμίν"
+						},
+						{
+							"code": "c",
+							"data": "εκ Τουδέλης"
+						},
+						{
+							"code": "f",
+							"data": "12ος αιώνας"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20120307"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Work cat.: Benjamin of Tudela, Το βιβλίο των ταξιδιών, 1994"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Το βιβλίο των ταξιδιών, 1994"
+						},
+						{
+							"code": "b",
+							"data": "σ.τ. (Βενιαμίν εκ Τουδέλης)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/32154389"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n80065940"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2012-03"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001865"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203348.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001865"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Fiedler"
+						},
+						{
+							"code": "b",
+							"data": "Maggi"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/58993209"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/nr98011814"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001869"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203348.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001869"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "LOUSSOUARN"
+						},
+						{
+							"code": "b",
+							"data": "Yvon"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/17226069"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n80166966"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001644"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203344.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001644"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519agrey010305  ga"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "AACR2 2nd rev. ed."
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Πλάτων"
+						},
+						{
+							"code": "f",
+							"data": "427-347 π.Χ."
+						}
+					],
+					"tag": 200,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Πλατωνική φιλοσοφία"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Πλατωνισμός , Αρχαίος"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Plato"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Platon"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "184"
+						},
+						{
+							"code": "c",
+							"data": "Platonic philosophy"
+						},
+						{
+							"code": "v",
+							"data": "23η έκδ."
+						}
+					],
+					"tag": 676,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Plato"
+						},
+						{
+							"code": "2",
+							"data": "lcna"
+						},
+						{
+							"code": "3",
+							"data": "http://id.loc.gov/authorities/names/n79139459"
+						}
+					],
+					"tag": 700,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20100614"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Republic, 1993"
+						},
+						{
+							"code": "b",
+							"data": "t.p. (Plato)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Oeuvres completes, 1997-"
+						},
+						{
+							"code": "b",
+							"data": "t.p. (Platon)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Ε.Β.Ε."
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "L.C."
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Παγκόσμιο βιογραφικό λεξικό, 1990-1991"
+						},
+						{
+							"code": "b",
+							"data": "τ.8 (Πλάτων·  427 - 347 π.Χ., Αθήνα· φιλόσοφος, ο κορυφαίος της ανθρωπότητας)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/108159964"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2010-06"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002345"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203356.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002345"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519agrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ita"
+						}
+					],
+					"tag": 101,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "IT"
+						}
+					],
+					"tag": 102,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "0"
+						}
+					],
+					"tag": 106,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ba"
+						}
+					],
+					"tag": 120,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "RDA"
+						},
+						{
+							"code": "b",
+							"data": "lcna"
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Donizetti"
+						},
+						{
+							"code": "b",
+							"data": "Gaetano"
+						},
+						{
+							"code": "f",
+							"data": "1797-1848"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Composer"
+						}
+					],
+					"tag": 340,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Donizetti"
+						},
+						{
+							"code": "b",
+							"data": "G."
+						},
+						{
+							"code": "f",
+							"data": "1797-1848"
+						},
+						{
+							"code": "g",
+							"data": "(Gaetano)"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20090604"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "La favorita, 19--"
+						},
+						{
+							"code": "b",
+							"data": "t.p. (G. Donizetti)"
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "L.C."
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/74037336"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79132358"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2013-07"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002340"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203356.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002340"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "MICHEL"
+						},
+						{
+							"code": "b",
+							"data": "Pierre"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/223629285"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n94082329"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002529"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203359.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002529"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "FREUND"
+						},
+						{
+							"code": "b",
+							"data": "Julien"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/108494825"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n81010548"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002234"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203354.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002234"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Braillard"
+						},
+						{
+							"code": "b",
+							"data": "Philippe"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/4927298"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n82111885"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002235"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203354.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002235"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "SENARCLENS"
+						},
+						{
+							"code": "b",
+							"data": "Pierre de"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/95159291"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n85804915"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001870"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203348.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001870"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Bredin"
+						},
+						{
+							"code": "b",
+							"data": "Jean-Denis"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/8182"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n84083982"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10000059"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519202845.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10000059"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20120427agrey010301  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Asor Rosa"
+						},
+						{
+							"code": "b",
+							"data": "Alberto"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Rosa"
+						},
+						{
+							"code": "b",
+							"data": "Alberto Asor"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/4924891"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79006391"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10000050"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519202845.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10000050"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519xgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Pablo"
+						},
+						{
+							"code": "b",
+							"data": "Michel"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/3762597"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79151551"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001657"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203344.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001657"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Mandeson"
+						},
+						{
+							"code": "b",
+							"data": "Arnold"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/236696943"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n85382200"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002351"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203356.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002351"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "LANOUX"
+						},
+						{
+							"code": "b",
+							"data": "Armand"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/109461660"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n50035994"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002352"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203356.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002352"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "MITTERAND"
+						},
+						{
+							"code": "b",
+							"data": "Henri"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/14961"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n50000410"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002357"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203356.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002357"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "MURPHY"
+						},
+						{
+							"code": "b",
+							"data": "Joseph"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/304985191"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n82112848"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002687"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203402.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002687"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GOULD"
+						},
+						{
+							"code": "b",
+							"data": "Stephen Jay"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/108205470"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n79145199"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002686"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203402.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002686"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey010303  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Purcell"
+						},
+						{
+							"code": "b",
+							"data": "Rosamond Wolff"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/93008584"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n81062664"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002531"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203359.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002531"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519agrey010305  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ita"
+						}
+					],
+					"tag": 101,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "IT"
+						}
+					],
+					"tag": 102,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "0"
+						}
+					],
+					"tag": 106,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "ba"
+						}
+					],
+					"tag": 120,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "AACR2 2nd rev. ed."
+						},
+						{
+							"code": "b",
+							"data": "lcna"
+						}
+					],
+					"tag": 152,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Bellini"
+						},
+						{
+							"code": "b",
+							"data": "Vincenzo"
+						},
+						{
+							"code": "f",
+							"data": "1801-1835"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "GR"
+						},
+						{
+							"code": "b",
+							"data": "Ionian University"
+						},
+						{
+							"code": "c",
+							"data": "20100223"
+						}
+					],
+					"tag": 801,
+					"ind2": "0",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "L.C."
+						}
+					],
+					"tag": 810,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/39560983"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n80122768"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Aslanidi"
+						},
+						{
+							"code": "z",
+							"data": "2015-02"
+						}
+					],
+					"tag": 970,
+					"ind2": " ",
+					"ind1": " "
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10000974"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519202856.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10000974"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20130703agrey010305  ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Nostradamus"
+						},
+						{
+							"code": "f",
+							"data": "1503-1566"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Notredame"
+						},
+						{
+							"code": "b",
+							"data": "Michel de"
+						},
+						{
+							"code": "f",
+							"data": "1503-1566"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Νοστράδαμος"
+						},
+						{
+							"code": "f",
+							"data": "1503-1566"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/16387613"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n80009809"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10003062"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203408.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10003062"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Driessen"
+						},
+						{
+							"code": "b",
+							"data": "Karen C."
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/12452133"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n94038284"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10003063"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203408.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10003063"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "SMYTH"
+						},
+						{
+							"code": "b",
+							"data": "Sheila A."
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/2617575"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n94038285"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002826"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203404.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002826"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Amin"
+						},
+						{
+							"code": "b",
+							"data": "Samir"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/108317093"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n80005668"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10001795"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203346.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10001795"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "IMBERT"
+						},
+						{
+							"code": "b",
+							"data": "Jean"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/106965799"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n50031602"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10000316"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519202848.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10000316"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20130920agrey010305  ga"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Robespierre"
+						},
+						{
+							"code": "b",
+							"data": "Maximilien"
+						},
+						{
+							"code": "f",
+							"data": "1758-1794"
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "Ροβεσπιέρος"
+						}
+					],
+					"tag": 400,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/89401473"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n50061705"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		},
+		{
+			"fields": [
+				{
+					"tag": 1,
+					"data": "ionioa10002792"
+				},
+				{
+					"tag": 3,
+					"data": "ionio"
+				},
+				{
+					"tag": 5,
+					"data": "20050519203404.0"
+				},
+				{
+					"subfields": [
+						{
+							"code": "z",
+							"data": "(ionio)ionioa10002792"
+						}
+					],
+					"tag": 35,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "20050519cgrey0103    ba"
+						}
+					],
+					"tag": 100,
+					"ind2": " ",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "a",
+							"data": "MARTIN"
+						},
+						{
+							"code": "b",
+							"data": "Ron G."
+						}
+					],
+					"tag": 200,
+					"ind2": "1",
+					"ind1": " "
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://viaf.org/viaf/43493395"
+						},
+						{
+							"code": "x",
+							"data": "viaf"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				},
+				{
+					"subfields": [
+						{
+							"code": "u",
+							"data": "http://id.loc.gov/authorities/names/n92032510"
+						},
+						{
+							"code": "x",
+							"data": "lcna"
+						}
+					],
+					"tag": 856,
+					"ind2": " ",
+					"ind1": "4"
+				}
+			]
+		}
+	]
+}
