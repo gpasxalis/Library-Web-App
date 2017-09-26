@@ -1,8 +1,8 @@
 [
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -11,8 +11,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -21,8 +21,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -31,8 +31,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -41,8 +41,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -51,28 +51,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GRANT DUFF"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Shiela"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -81,18 +61,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/115859233"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -101,18 +71,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n83064573"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -121,8 +81,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -131,8 +91,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -141,8 +101,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -151,8 +111,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -161,8 +121,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -171,18 +131,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "SMITH"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -191,18 +141,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/43216873"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -211,18 +151,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n83153176"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -231,8 +161,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -241,8 +171,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -251,8 +181,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -261,8 +191,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -271,8 +201,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -281,28 +211,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aretino"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Pietro"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -311,18 +221,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/66609417"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -331,18 +231,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79089193"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -351,8 +241,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -361,8 +251,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -371,8 +261,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -381,8 +271,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -391,8 +281,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -401,28 +291,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Eppstein"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ury"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -431,18 +301,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/26297752"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -451,18 +311,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n94093446"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -471,8 +321,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -481,8 +331,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -491,8 +341,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -501,8 +351,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -511,8 +361,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -521,18 +371,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "NEIBAUER"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -541,18 +381,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/37895"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -561,18 +391,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n86013887"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -581,8 +401,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -591,8 +411,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -601,8 +421,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -611,8 +431,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -621,8 +441,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -631,18 +451,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "WEBER"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -651,18 +461,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/72227794"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -671,18 +471,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n50020913"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -691,8 +481,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -701,8 +491,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -711,8 +501,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -721,8 +511,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -731,8 +521,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -741,18 +531,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "ROBERTSON"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -761,18 +541,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/304990846"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -781,18 +551,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n84155420"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -801,8 +561,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -811,8 +571,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -821,8 +581,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -831,8 +591,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -841,8 +601,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -851,18 +611,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "REUCHLIN"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -871,18 +621,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/108852345"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -891,18 +631,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n50045211"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -911,8 +641,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -921,8 +651,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -931,8 +661,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -941,8 +671,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -951,8 +681,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -961,8 +691,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -971,8 +701,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -981,8 +711,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -991,8 +721,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1001,18 +731,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "AACR2 2nd rev. ed."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1021,18 +741,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Stendhal"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1041,28 +751,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1071,8 +761,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1081,18 +771,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/17823"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1101,18 +781,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n78095494"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1121,18 +791,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1141,8 +801,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1151,8 +811,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1161,8 +821,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1171,8 +831,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1181,8 +841,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1191,8 +851,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1201,8 +861,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1211,18 +871,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "AACR2 2nd rev. ed."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1231,28 +881,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Stravinsky"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Igor"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1261,8 +891,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1271,28 +901,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1301,18 +911,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/17309155"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1321,18 +921,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79070061"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1341,18 +931,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1361,8 +941,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1371,8 +951,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1381,8 +961,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1391,8 +971,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1401,8 +981,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1411,28 +991,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "RAHBARI"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Alexander"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1441,18 +1001,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/61737848"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1461,18 +1011,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/nr94014400"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1481,8 +1021,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1491,8 +1031,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1501,8 +1041,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1511,8 +1051,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1521,8 +1061,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1531,8 +1071,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1541,8 +1081,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1551,8 +1091,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1561,8 +1101,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1571,8 +1111,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1581,18 +1121,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "AACR2 2nd rev. ed."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1601,28 +1131,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Gershwin"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "George"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1631,28 +1141,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1661,8 +1151,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1671,18 +1161,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/61554329"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1691,18 +1171,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79077265"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1711,18 +1181,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1731,8 +1191,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1741,8 +1201,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1751,8 +1211,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1761,8 +1221,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1771,8 +1231,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1781,18 +1241,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GYORY"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1801,18 +1251,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/15213547"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1821,18 +1261,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n91065357"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1841,8 +1271,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1851,8 +1281,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1861,8 +1291,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1871,8 +1301,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1881,8 +1311,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1891,18 +1321,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Hild"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1911,18 +1331,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/147485808"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1931,18 +1341,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/nb2005013710"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1951,8 +1351,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1961,8 +1361,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1971,8 +1371,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1981,8 +1381,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -1991,8 +1391,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2001,18 +1401,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Koder"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2021,18 +1411,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/25795558"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2041,18 +1421,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n80156039"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2061,8 +1431,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2071,8 +1441,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2081,8 +1451,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2091,8 +1461,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2101,8 +1471,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2111,18 +1481,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Etienne"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2131,18 +1491,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/111567113"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2151,18 +1501,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n84186414"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2171,8 +1511,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2181,8 +1521,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2191,8 +1531,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2201,8 +1541,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2211,8 +1551,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2221,28 +1561,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "KOCH"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Heinrich Christoph"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2251,18 +1571,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/9985355"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2271,18 +1581,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n82165268"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2291,8 +1591,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2301,8 +1601,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2311,8 +1611,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2321,8 +1621,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2331,8 +1631,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2341,18 +1641,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "WESSON"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2361,18 +1651,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/51829278"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2381,18 +1661,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n83169601"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2401,8 +1671,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2411,8 +1681,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2421,8 +1691,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2431,8 +1701,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2441,8 +1711,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2451,18 +1721,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "KRAUSE"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2471,18 +1731,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/64069345"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2491,18 +1741,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n91076035"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2511,8 +1751,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2521,8 +1761,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2531,8 +1771,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2541,8 +1781,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2551,8 +1791,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2561,18 +1801,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Boniface"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2581,18 +1811,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/48131872"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2601,18 +1821,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n83010785"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2621,8 +1831,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2631,8 +1841,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2641,8 +1851,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2651,8 +1861,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2661,8 +1871,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2671,8 +1881,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2681,8 +1891,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2691,8 +1901,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2701,8 +1911,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2711,18 +1921,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "AACR2 2nd rev. ed."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2731,28 +1931,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Bach"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Johann Sebastian"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2761,28 +1941,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Bach"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "J. S."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2791,28 +1951,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Bach"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Gio. Seb."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2821,28 +1961,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Bach"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "G. S."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2851,18 +1971,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "\u039c\u03c0\u03b1\u03c7"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2871,28 +1981,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2901,18 +1991,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Air on a G string, c1994"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2921,18 +2001,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Composizioni, [18--]"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2941,18 +2011,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Il clavicembalo bem temperato, 1946"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2961,18 +2021,18 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u039c\u03c0\u03b1\u03c7 [SR] 2001"
+    "data": "Μπαχ [SR] 2001"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -2981,18 +2041,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/12304462"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3001,18 +2051,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79021425"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3021,18 +2061,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3041,8 +2071,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3051,8 +2081,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3061,8 +2091,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3071,8 +2101,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3081,8 +2111,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3091,18 +2121,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "HENDRICKS"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3111,18 +2131,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/76154136"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3131,18 +2141,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/nr00018297"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3151,8 +2151,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3161,8 +2161,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3171,8 +2171,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3181,8 +2181,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3191,8 +2191,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3201,8 +2201,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3211,28 +2211,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "HITLER"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Adolf"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3241,18 +2221,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/38190770"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3261,18 +2231,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79046200"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3281,8 +2241,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3291,8 +2251,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3301,8 +2261,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3311,8 +2271,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3321,8 +2281,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3331,18 +2291,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "KNOWLES"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3351,18 +2301,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/235333474"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3371,18 +2311,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n84094767"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3391,8 +2321,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3401,8 +2331,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3411,8 +2341,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3421,8 +2351,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3431,8 +2361,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3441,8 +2371,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3451,8 +2381,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3461,8 +2391,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3471,8 +2401,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3481,8 +2411,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3491,18 +2421,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "AACR2 2nd rev. ed."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3511,28 +2431,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Benjamin"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "of Tudela"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3541,58 +2441,18 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u0392\u03b5\u03bd\u03b9\u03b1\u03bc\u03af\u03bd"
+    "data": "12ος αιώνας"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "\u03b5\u03ba \u03a4\u03bf\u03c5\u03b4\u03ad\u03bb\u03b7\u03c2"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "12\u03bf\u03c2 \u03b1\u03b9\u03ce\u03bd\u03b1\u03c2"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3601,48 +2461,28 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "Work cat.: Benjamin of Tudela, \u03a4\u03bf \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03c4\u03c9\u03bd \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03bd, 1994"
+    "data": "Work cat.: Benjamin of Tudela, Το βιβλίο των ταξιδιών, 1994"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u03a4\u03bf \u03b2\u03b9\u03b2\u03bb\u03af\u03bf \u03c4\u03c9\u03bd \u03c4\u03b1\u03be\u03b9\u03b4\u03b9\u03ce\u03bd, 1994"
+    "data": "σ.τ. (Βενιαμίν εκ Τουδέλης)"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "\u03c3.\u03c4. (\u0392\u03b5\u03bd\u03b9\u03b1\u03bc\u03af\u03bd \u03b5\u03ba \u03a4\u03bf\u03c5\u03b4\u03ad\u03bb\u03b7\u03c2)"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/32154389"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3651,18 +2491,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n80065940"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3671,18 +2501,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3691,8 +2511,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3701,8 +2521,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3711,8 +2531,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3721,8 +2541,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3731,8 +2551,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3741,18 +2561,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Fiedler"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3761,18 +2571,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/58993209"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3781,18 +2581,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/nr98011814"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3801,8 +2591,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3811,8 +2601,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3821,8 +2611,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3831,8 +2621,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3841,8 +2631,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3851,18 +2641,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "LOUSSOUARN"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3871,18 +2651,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/17226069"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3891,18 +2661,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n80166966"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3911,8 +2671,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3921,8 +2681,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3931,8 +2691,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3941,8 +2701,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3951,8 +2711,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3961,8 +2721,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -3971,48 +2731,38 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u03a0\u03bb\u03ac\u03c4\u03c9\u03bd"
+    "data": "427-347 π.Χ."
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "427-347 \u03c0.\u03a7."
+    "data": "Πλατωνική φιλοσοφία"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u03a0\u03bb\u03b1\u03c4\u03c9\u03bd\u03b9\u03ba\u03ae \u03c6\u03b9\u03bb\u03bf\u03c3\u03bf\u03c6\u03af\u03b1"
+    "data": "Πλατωνισμός , Αρχαίος"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "\u03a0\u03bb\u03b1\u03c4\u03c9\u03bd\u03b9\u03c3\u03bc\u03cc\u03c2 , \u0391\u03c1\u03c7\u03b1\u03af\u03bf\u03c2"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4021,8 +2771,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4031,58 +2781,18 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "184"
+    "data": "23η έκδ."
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Platonic philosophy"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "23\u03b7 \u03ad\u03ba\u03b4."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Plato"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "lcna"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4091,28 +2801,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4121,18 +2811,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Republic, 1993"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4141,18 +2821,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Oeuvres completes, 1997-"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4161,18 +2831,18 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u0395.\u0392.\u0395."
+    "data": "Ε.Β.Ε."
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4181,38 +2851,18 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u03a0\u03b1\u03b3\u03ba\u03cc\u03c3\u03bc\u03b9\u03bf \u03b2\u03b9\u03bf\u03b3\u03c1\u03b1\u03c6\u03b9\u03ba\u03cc \u03bb\u03b5\u03be\u03b9\u03ba\u03cc, 1990-1991"
+    "data": "τ.8 (Πλάτων·  427 - 347 π.Χ., Αθήνα· φιλόσοφος, ο κορυφαίος της ανθρωπότητας)"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "\u03c4.8 (\u03a0\u03bb\u03ac\u03c4\u03c9\u03bd\u00b7  427 - 347 \u03c0.\u03a7., \u0391\u03b8\u03ae\u03bd\u03b1\u00b7 \u03c6\u03b9\u03bb\u03cc\u03c3\u03bf\u03c6\u03bf\u03c2, \u03bf \u03ba\u03bf\u03c1\u03c5\u03c6\u03b1\u03af\u03bf\u03c2 \u03c4\u03b7\u03c2 \u03b1\u03bd\u03b8\u03c1\u03c9\u03c0\u03cc\u03c4\u03b7\u03c4\u03b1\u03c2)"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/108159964"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4221,18 +2871,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4241,8 +2881,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4251,8 +2891,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4261,8 +2901,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4271,8 +2911,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4281,8 +2921,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4291,8 +2931,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4301,8 +2941,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4311,8 +2951,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4321,8 +2961,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4331,18 +2971,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "RDA"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4351,28 +2981,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Donizetti"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Gaetano"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4381,8 +2991,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4391,38 +3001,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Donizetti"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "G."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "1797-1848"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4431,28 +3011,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4461,18 +3021,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "La favorita, 19--"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4481,8 +3031,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4491,18 +3041,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/74037336"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4511,18 +3051,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79132358"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4531,18 +3061,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4551,8 +3071,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4561,8 +3081,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4571,8 +3091,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4581,8 +3101,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4591,8 +3111,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4601,18 +3121,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "MICHEL"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4621,18 +3131,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/223629285"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4641,18 +3141,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n94082329"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4661,8 +3151,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4671,8 +3161,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4681,8 +3171,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4691,8 +3181,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4701,8 +3191,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4711,18 +3201,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "FREUND"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4731,18 +3211,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/108494825"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4751,18 +3221,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n81010548"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4771,8 +3231,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4781,8 +3241,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4791,8 +3251,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4801,8 +3261,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4811,8 +3271,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4821,18 +3281,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Braillard"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4841,18 +3291,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/4927298"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4861,18 +3301,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n82111885"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4881,8 +3311,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4891,8 +3321,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4901,8 +3331,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4911,8 +3341,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4921,8 +3351,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4931,18 +3361,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "SENARCLENS"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4951,18 +3371,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/95159291"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4971,18 +3381,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n85804915"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -4991,8 +3391,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5001,8 +3401,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5011,8 +3411,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5021,8 +3421,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5031,8 +3431,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5041,18 +3441,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Bredin"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5061,18 +3451,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/8182"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5081,18 +3461,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n84083982"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5101,8 +3471,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5111,8 +3481,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5121,8 +3491,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5131,8 +3501,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5141,8 +3511,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5151,18 +3521,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Asor Rosa"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5171,18 +3531,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Rosa"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5191,18 +3541,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/4924891"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5211,18 +3551,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79006391"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5231,8 +3561,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5241,8 +3571,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5251,8 +3581,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5261,8 +3591,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5271,8 +3601,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5281,18 +3611,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Pablo"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5301,18 +3621,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/3762597"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5321,18 +3631,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79151551"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5341,8 +3641,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5351,8 +3651,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5361,8 +3661,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5371,8 +3671,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5381,8 +3681,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5391,18 +3691,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Mandeson"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5411,18 +3701,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/236696943"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5431,18 +3711,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n85382200"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5451,8 +3721,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5461,8 +3731,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5471,8 +3741,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5481,8 +3751,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5491,8 +3761,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5501,18 +3771,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "LANOUX"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5521,18 +3781,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/109461660"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5541,18 +3791,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n50035994"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5561,8 +3801,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5571,8 +3811,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5581,8 +3821,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5591,8 +3831,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5601,8 +3841,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5611,18 +3851,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "MITTERAND"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5631,18 +3861,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/14961"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5651,18 +3871,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n50000410"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5671,8 +3881,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5681,8 +3891,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5691,8 +3901,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5701,8 +3911,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5711,8 +3921,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5721,18 +3931,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "MURPHY"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5741,18 +3941,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/304985191"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5761,18 +3951,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n82112848"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5781,8 +3961,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5791,8 +3971,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5801,8 +3981,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5811,8 +3991,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5821,8 +4001,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5831,18 +4011,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GOULD"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5851,18 +4021,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/108205470"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5871,18 +4031,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n79145199"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5891,8 +4041,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5901,8 +4051,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5911,8 +4061,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5921,8 +4071,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5931,8 +4081,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5941,18 +4091,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Purcell"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5961,18 +4101,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/93008584"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -5981,18 +4111,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n81062664"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6001,8 +4121,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6011,8 +4131,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6021,8 +4141,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6031,8 +4151,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6041,8 +4161,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6051,8 +4171,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6061,8 +4181,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6071,8 +4191,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6081,8 +4201,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6091,18 +4211,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "AACR2 2nd rev. ed."
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6111,28 +4221,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Bellini"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Vincenzo"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6141,28 +4231,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "GR"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Ionian University"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6171,8 +4241,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6181,18 +4251,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/39560983"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6201,18 +4261,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n80122768"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6221,18 +4271,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Aslanidi"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6241,8 +4281,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6251,8 +4291,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6261,8 +4301,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6271,8 +4311,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6281,8 +4321,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6291,18 +4331,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Nostradamus"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6311,28 +4341,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Notredame"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Michel de"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6341,18 +4351,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "\u039d\u03bf\u03c3\u03c4\u03c1\u03ac\u03b4\u03b1\u03bc\u03bf\u03c2"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6361,18 +4361,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/16387613"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6381,18 +4371,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n80009809"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6401,8 +4381,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6411,8 +4391,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6421,8 +4401,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6431,8 +4411,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6441,8 +4421,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6451,18 +4431,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Driessen"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6471,18 +4441,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/12452133"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6491,18 +4451,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n94038284"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6511,8 +4461,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6521,8 +4471,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6531,8 +4481,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6541,8 +4491,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6551,8 +4501,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6561,18 +4511,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "SMYTH"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6581,18 +4521,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/2617575"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6601,18 +4531,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n94038285"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6621,8 +4541,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6631,8 +4551,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6641,8 +4561,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6651,8 +4571,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6661,8 +4581,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6671,18 +4591,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Amin"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6691,18 +4601,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/108317093"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6711,18 +4611,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n80005668"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6731,8 +4621,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6741,8 +4631,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6751,8 +4641,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6761,8 +4651,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6771,8 +4661,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6781,18 +4671,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "IMBERT"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6801,18 +4681,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/106965799"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6821,18 +4691,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n50031602"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6841,8 +4701,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6851,8 +4711,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6861,8 +4721,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6871,8 +4731,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6881,8 +4741,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6891,28 +4751,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Robespierre"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "Maximilien"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6921,28 +4761,18 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
-    "data": "\u03a1\u03bf\u03b2\u03b5\u03c3\u03c0\u03b9\u03ad\u03c1\u03bf\u03c2"
+    "data": "Ροβεσπιέρος"
   }
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/89401473"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6951,18 +4781,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n50061705"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6971,8 +4791,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6981,8 +4801,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -6991,8 +4811,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -7001,8 +4821,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -7011,8 +4831,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -7021,18 +4841,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "MARTIN"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -7041,18 +4851,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://viaf.org/viaf/43493395"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
@@ -7061,18 +4861,8 @@
 ][
   {
     "index": {
-      "_type": "data",
-      "_index": "test"
-    }
-  },
-  {
-    "data": "http://id.loc.gov/authorities/names/n92032510"
-  }
-][
-  {
-    "index": {
-      "_type": "data",
-      "_index": "test"
+      "_index": "test",
+      "_type": "data"
     }
   },
   {
