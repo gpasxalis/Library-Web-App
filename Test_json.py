@@ -7,11 +7,12 @@ with open('test.json') as json_file:
 		for r in data['test']:
 			for d in r['fields']:
 				if d['tag'] < 10:
-					json_data = {'index':{'_index':'test', '_type':'data'}},{'data':d['data']}
-					#print(d['data'])
+					jso = {"data":d['data']}
+					print(json.dumps({"index":{"_index":"test", "_type":"data"}},ensure_ascii=False,separators=(',', ':')))
+					print(json.dumps(jso,ensure_ascii=False,separators=(',', ':')))
 				else:
 					for j in d['subfields']:
-						#print(j['data'])
-						json_data = {'index':{'_index':'test', '_type':'data'}},{'data':j['data']}
-						json_str = json.dumps(json_data)
-				json.dump(json_data, f, indent=2, ensure_ascii=False)
+						jso = {"data":j['data']}
+						print(json.dumps({"index":{"_index":"test", "_type":"data"}},ensure_ascii=False,separators=(',', ':')))
+						print(json.dumps(jso,ensure_ascii=False,separators=(',', ':')))
+				
