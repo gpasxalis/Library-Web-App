@@ -6,7 +6,7 @@ with open('test.json') as json_file:
 	flag_array = []
 	
 	for r in data['test']:
-		
+
 		for d in r['fields']:
 			#flag = 0	
 			#fields_flag = False
@@ -31,19 +31,18 @@ with open('test.json') as json_file:
 						if j['data'] == flag:
 							subfields_flag = True	
 					if subfields_flag == False: 
-						#datagroup
 						jso = {"datagroup":[{"taggroup":"index200","value":j['data']}], "record":r['fields']}
 						for r1 in data['test']:
 							for d1 in r1['fields']:
 								if d1['tag'] > 9:
 									for j1 in d1['subfields']:
-										if j1['data'] == jso['datagroup'][0]['value']: 
-											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})					
+										if j1['data'] == jso['datagroup'][0]['value']:
+											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
+													
 						flag_array.append(j['data'])
-											#logical_flag = False
-											#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
-					
-						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))
+												#logical_flag = False
+												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
+						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
 						print(json.dumps(jso,ensure_ascii=False,separators=(',', ':')))
 
 			elif d['tag'] > 299 and d['tag'] < 400:
@@ -59,12 +58,13 @@ with open('test.json') as json_file:
 							for d1 in r1['fields']:
 								if d1['tag'] > 9:
 									for j1 in d1['subfields']:
-										if j1['data'] == jso['datagroup'][0]['value']:	
-											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})		
-						flag_array.append(j1['data'])
+										if j1['data'] == jso['datagroup'][0]['value']:
+											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
+													
+						flag_array.append(j['data'])
 												#logical_flag = False
 												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
-						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))
+						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
 						print(json.dumps(jso,ensure_ascii=False,separators=(',', ':')))
 				
 			elif d['tag'] > 399 and d['tag'] < 500:
@@ -83,7 +83,7 @@ with open('test.json') as json_file:
 										if j1['data'] == jso['datagroup'][0]['value']:
 											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
 													
-						flag_array.append(j1['data'])
+						flag_array.append(j['data'])
 												#logical_flag = False
 												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
 						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
@@ -104,8 +104,8 @@ with open('test.json') as json_file:
 									for j1 in d1['subfields']:
 										if j1['data'] == jso['datagroup'][0]['value']:
 											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
-												
-						flag_array.append(j1['data'])
+													
+						flag_array.append(j['data'])
 												#logical_flag = False
 												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
 						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
@@ -127,7 +127,7 @@ with open('test.json') as json_file:
 										if j1['data'] == jso['datagroup'][0]['value']:
 											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
 													
-						flag_array.append(j1['data'])
+						flag_array.append(j['data'])
 												#logical_flag = False
 												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
 						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
@@ -140,7 +140,7 @@ with open('test.json') as json_file:
 					for flag in flag_array:
 						if j['data'] == flag:
 							subfields_flag = True	
-					if subfields_flag == False:
+					if subfields_flag == False: 
 						jso = {"datagroup":[{"taggroup":"index700","value":j['data']}], "record":r['fields']}
 						for r1 in data['test']:
 							for d1 in r1['fields']:
@@ -149,11 +149,13 @@ with open('test.json') as json_file:
 										if j1['data'] == jso['datagroup'][0]['value']:
 											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
 													
-						flag_array.append(j1['data'])
+						flag_array.append(j['data'])
 												#logical_flag = False
 												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
 						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
 						print(json.dumps(jso,ensure_ascii=False,separators=(',', ':')))
+
+
 
 			elif d['tag'] > 799 and d['tag'] < 900:
 				
@@ -171,7 +173,7 @@ with open('test.json') as json_file:
 										if j1['data'] == jso['datagroup'][0]['value']:
 											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
 													
-						flag_array.append(j1['data'])
+						flag_array.append(j['data'])
 												#logical_flag = False
 												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
 						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
@@ -191,13 +193,15 @@ with open('test.json') as json_file:
 								if d1['tag'] > 9:
 									for j1 in d1['subfields']:
 										if j1['data'] == jso['datagroup'][0]['value']:
-											for flag in flag_array:
-												jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
+											jso['datagroup'].append({"taggroup":"flag","value":j1['data']})
 													
-						flag_array.append(j1['data'])
+						flag_array.append(j['data'])
 												#logical_flag = False
 												#print("\nFound duplicate ",j1['data']," with ",jso['datagroup'][0]['value'])
 						print(json.dumps({"index":{"_index":"lib-index", "_type":"lib-data"}},ensure_ascii=False,separators=(',', ':')))					
 						print(json.dumps(jso,ensure_ascii=False,separators=(',', ':')))
+
+
 			
+		
 
